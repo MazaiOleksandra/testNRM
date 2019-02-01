@@ -1,3 +1,3 @@
 <?php
-var_dum($_REQUEST);
+var_dump($_REQUEST);
 echo 'hello';
